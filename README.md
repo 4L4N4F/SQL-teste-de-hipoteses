@@ -1,9 +1,9 @@
 # JORNADA DE DADOS [<Laboratória>](https://analisededadoslaboratoria.com.br/)
 Projeto desenvolvido para o programa Jornada de Dados, oferecido pela organização Laboratória, em agosto de 2025.
 
-Caso:
-Objetivo:
-
+- Caso: Uma gravadora está lançando um novo artista e levantou uma série de hipóteses sobre o que faz uma música ser mais ouvida.<br><br>
+- Objetivo: Validar essas hipóteses através de análise de dados e cálculos de correlação estatística, e fornecer recomendações estratégicas para que a gravadora.<br><br>
+- Dataset: Músicas mais ouvidas no Spotify em 2023, audio features dessas músicas e desempenho em outras plataformas similares.
 
 ## Etapas do projeto
 
